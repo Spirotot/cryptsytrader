@@ -14,4 +14,4 @@ working on.
 Learning/implementing the algorithms was a good learning experience for me!
 
 Check out `src/screenlog.0` for printouts of the bot actually running... I'll
-pleave it up to you to figure out if I was earning to losing money. :)
+leave it up to you to figure out if I was earning or losing money. :)
